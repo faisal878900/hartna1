@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441422911451",
+    "firebase_url": "https://hartna-a8d51.firebaseio.com",
+    "project_id": "hartna-a8d51",
+    "storage_bucket": "hartna-a8d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441422911451:android:e6b1197b90b79e8b82b9fe",
+        "android_client_info": {
+          "package_name": "com.hartna1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441422911451-9vcsbba7pehmbib10dmfia1j32nk79ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTomUJ5kzf2JqvWAn9tkZKD_gBTJJNg3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441422911451-9vcsbba7pehmbib10dmfia1j32nk79ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
